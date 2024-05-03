@@ -33,8 +33,8 @@ WHAT IT COMES WITH:
 - If you haven't installed Termux-x11 (termux-x11-nightly and it's application) and pulseaudio, install them now.
 - Download the rootfs and copy it to the home directory of your termux install
 - Run:
-    
-          proot-distro restore ChironOS2024-RootFSTarball
+
+      proot-distro restore ChironOS2024-RootFSTarball
     
 - Wait for the process to finish. This will extract and install the tarball under ubuntu-lts.
 - When you log in, run "str" to start up the desktop environment.
