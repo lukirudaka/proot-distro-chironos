@@ -28,8 +28,7 @@ WHAT IT COMES WITH:
 - Everything already preconfigured and ready to go
 - A comfy dark theme for KDE Plasma 6
 
-"You son of a b****, I'm in!":
-(How do I install?)
+"You son of a b****, I'm in!" (How do I install?):
 - If you haven't installed Termux-x11 (termux-x11-nightly and it's application) and pulseaudio, install them now.
 - Download the rootfs and copy it to the home directory of your termux install
 - Run:
