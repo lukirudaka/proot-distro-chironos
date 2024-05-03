@@ -1,4 +1,5 @@
-ROOTFS IS ON GOOGLE DRIVE. WILL ADD LINK HERE WHEN FINISHED UPLOADING
+ROOTFS AVAILABLE HERE → https://drive.google.com/file/d/1PTZ4AitYV1BlSr9lfRbwvSL1JJQ23p77/view?usp=sharing ←
+Github didn't let me upload it directly because it's 4 and a half gigabytes.
 
 Demonstration: https://www.youtube.com/watch?v=bg7_1ceWokw
 
