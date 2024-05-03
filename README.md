@@ -1,5 +1,8 @@
 ROOTFS IS ON GOOGLE DRIVE. WILL ADD LINK HERE WHEN FINISHED UPLOADING
 
+Demonstration: https://www.youtube.com/watch?v=bg7_1ceWokw
+
+
 This is based on Ubuntu-LTS, and uses Mesa Turnip drivers to provide full hardware acceleration under PRoot-Distro in Termux to KDE Plasma 6, and any other applications.
 
 It was last updated on May 3rd 2024 and is made for ARM64 devices.
