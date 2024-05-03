@@ -17,16 +17,16 @@ WHAT DOES:
 Pretty much everything. KDE Plasma 6 under Mesa Zink is VERY responsive, and leaves plenty of room to do whatever you want to do on the device I tested with, which was a Samsung Galaxy Tab S6 Lite (Model SM-P613).
 
 WHAT IT COMES WITH:
-    KATE
-    KDE Plasma 6
-    picom (for Software-rendered compositing, remedies broken compositors without adding too much load to the CPU)
-    onboard (Virtual keyboard for those not using hackers keyboard like me)
-    Firefox-ESR (Just to get you started. You're probably best replacing this with Ungoogled Chromium or straight up chromium from xtradeb.)
-    Armcord (Discord's desktop client for ARM64 devices.)
-    Mesa Zink, with Turnip exposing Vulkan 1.3, and assuming you're on a newer device, OpenGL 4.6.
-    KDE Connect, if you wish to use a bluetooth keyboard, and your phone as a trackpad (assuming you are on a tablet like I was)
-    Everything already preconfigured and ready to go
-    A comfy dark theme for KDE Plasma 6
+- KATE
+- KDE Plasma 6
+- picom (for Software-rendered compositing, remedies broken compositors without adding too much load to the CPU)
+- onboard (Virtual keyboard for those not using hackers keyboard like me)
+- Firefox-ESR (Just to get you started. You're probably best replacing this with Ungoogled Chromium or straight up chromium from xtradeb.)
+- Armcord (Discord's desktop client for ARM64 devices.)
+- Mesa Zink, with Turnip exposing Vulkan 1.3, and assuming you're on a newer device, OpenGL 4.6.
+- KDE Connect, if you wish to use a bluetooth keyboard, and your phone as a trackpad (assuming you are on a tablet like I was)
+- Everything already preconfigured and ready to go
+- A comfy dark theme for KDE Plasma 6
 
 "You son of a b****, I'm in!":
 (How do I install?)
