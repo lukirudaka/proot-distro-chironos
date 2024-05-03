@@ -37,7 +37,8 @@ WHAT IT COMES WITH:
     - Wait for the process to finish. This will extract and install the tarball under ubuntu-lts.
     - When you log in, run "str" to start up the desktop environment.
 
-    - For convenience sake, create a startup script.
+For convenience sake, create a startup script.
+
            termux-x11 :0 &
            pulseaudio --start --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" --exit-idle-time=-1
            touch ~/touchgpu
