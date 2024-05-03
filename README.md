@@ -9,9 +9,9 @@ WHAT DOESN'T WORK:
      Compositors, upon trying to use the Zink driver, will cause everything to go black.
      Either use a compositor that has 100% compatibility with Vulkan, or use a standalone compositor on software rendering. There is already one configured in this fashion
 - Firefox-ESR
-      Upon trying to use EGL forcibly in Firefox, it makes Firefox instantly crash upon startup. You **can** install Chromium from ppa:xtradeb/apps to use Vulkan on Chromium, at the cost of having Google spy on you.
+Upon trying to use EGL forcibly in Firefox, it makes Firefox instantly crash upon startup. You **can** install Chromium from ppa:xtradeb/apps to use Vulkan on Chromium, at the cost of having Google spy on you.
 - Any themes that use the blur effect.
-      Enabling the blur effect on Picom, because we can't get any compositor working with hardware acceleration, will make the usability go down the drain and cause massive lag. Transparency still works just fine with no issues.
+Enabling the blur effect on Picom -- because we can't get any compositor working with hardware acceleration -- will make the usability go down the drain and cause massive lag. Transparency still works just fine with no issues.
 
 WHAT DOES:
 Pretty much everything. KDE Plasma 6 under Mesa Zink is VERY responsive, and leaves plenty of room to do whatever you want to do on the device I tested with, which was a Samsung Galaxy Tab S6 Lite (Model SM-P613).
