@@ -39,13 +39,13 @@ WHAT IT COMES WITH:
 
 For convenience sake, create a startup script.
 
-           termux-x11 :0 &
-           pulseaudio --start --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" --exit-idle-time=-1
-           touch ~/touchgpu
-           proot-distro login ubuntu-lts --user main --shared-tmp --bind ~/touchgpu:/proc/bus/pci/devices
-           ## At this point, when you exit proot-distro, the below will run, killing Pulseaudio and Termux-X11.
-           pkill app_process
-           pkill pulseaudio
+    termux-x11 :0 &
+    pulseaudio --start --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" --exit-idle-time=-1
+    touch ~/touchgpu
+    proot-distro login ubuntu-lts --user main --shared-tmp --bind ~/touchgpu:/proc/bus/pci/devices
+    ## At this point, when you exit proot-distro, the below will run, killing Pulseaudio and Termux-X11.
+    pkill app_process
+    pkill pulseaudio
 
 Congrats, you've installed the RootFS and (assuming you did) created a startup script to easily start it :)
 
