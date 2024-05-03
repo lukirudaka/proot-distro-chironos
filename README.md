@@ -54,4 +54,4 @@ For convenience sake, create a startup script.
 
 Congrats, you've installed the RootFS and (assuming you did) created a startup script to easily start it :)
 
-(Note: Pretty much all of the code is NOT mine.)
+(Note: Pretty much all of the code is NOT mine. I just mashed a bunch of stuff together to get stuff working, then recreated what I did to make a clean and not-as-bloated rootFS for public use.)
