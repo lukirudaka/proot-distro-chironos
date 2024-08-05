@@ -45,7 +45,7 @@ WHAT IT COMES WITH:
       proot-distro restore ChironOS2024-RootFSTarball
     
 - Wait for the process to finish. This will extract and install the tarball under ubuntu-lts.
-- When you log in, run "str" to start up the desktop environment.
+- When you log in, run your startup script of choice (mine is "str") to start up the desktop environment.
 
 For convenience sake, create a startup script.
 
