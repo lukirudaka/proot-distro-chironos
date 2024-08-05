@@ -7,6 +7,7 @@ Demonstration: https://www.youtube.com/watch?v=bg7_1ceWokw
 This is based on Ubuntu-LTS, and uses Mesa Turnip drivers to provide full hardware acceleration under PRoot-Distro in Termux to KDE Plasma 6, and any other applications.
 
 It was last updated on May 3rd 2024 and is made for ARM64 devices.
+WARNING: This has been superseded as I am working on Debidroid, which is a mostly-seamless Debian on Android experience using XFCE4. Currently working on Camera access on that part as of 5/8/2024
 
 WHAT DOESN'T WORK:
 - Compositors
